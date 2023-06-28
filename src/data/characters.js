@@ -184,6 +184,11 @@ const characters = [
     name: 'Ms. Marvel',
     image: 'img/characters/ms-marvel.jpg',
     set: 'Teen Spirit',
+    },
+  {
+    name: 'Ms. Marvel',
+    image: 'img/characters/winter-soldier.jpg',
+    set: 'For King and Country',
   },
 ]
 
