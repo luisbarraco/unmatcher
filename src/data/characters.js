@@ -1,7 +1,7 @@
 const characters = [
   {
     name: 'Alice',
-    image: 'img/characters/alice.jpg',
+    image: 'img/characters/Alice.jpg',
     set: 'Battle of Legends, Volume 1',
   },
   {
