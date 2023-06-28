@@ -186,7 +186,7 @@ const characters = [
     set: 'Teen Spirit',
     },
   {
-    name: 'Ms. Marvel',
+    name: 'Winter Soldier',
     image: 'img/characters/winter-soldier.jpg',
     set: 'For King and Country',
   },
