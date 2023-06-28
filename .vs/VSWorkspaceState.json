@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\public",
+    "\\public\\img",
+    "\\public\\img\\characters",
+    "\\src",
+    "\\src\\data"
   ],
-  "SelectedNode": "\\C:\\Projects\\unmatcher",
+  "SelectedNode": "\\public\\img\\characters\\winter-soldier.jpg",
   "PreviewInSolutionExplorer": false
 }

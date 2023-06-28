@@ -95,6 +95,12 @@ const boards = [
     imageSmall: 'img/boards/navy-pier-small.jpg',
     set: 'Teen Spirit',
   },
+  {
+    name: 'Helicarrier',
+    image: 'img/boards/helicarrier.jpg',
+    imageSmall: 'img/boards/helicarrier-small.jpg',
+    set: 'For King and Country',
+  },
 ]
 
 export default boards

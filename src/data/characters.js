@@ -75,6 +75,11 @@ const characters = [
     set: 'Buffy the Vampire Slayer',
   },
   {
+    name: 'Buffy (Giles)',
+    image: 'img/characters/buffy.jpg',
+    set: 'Buffy the Vampire Slayer',
+  },
+  {
     name: 'Spike',
     image: 'img/characters/spike.jpg',
     set: 'Buffy the Vampire Slayer',
@@ -188,6 +193,16 @@ const characters = [
   {
     name: 'Winter Soldier',
     image: 'img/characters/winter-soldier.jpg',
+    set: 'For King and Country',
+  },
+  {
+    name: 'Black Panther',
+    image: 'img/characters/black-panther.jpg',
+    set: 'For King and Country',
+  },
+  {
+    name: 'Black Widow',
+    image: 'img/characters/black-widow.jpg',
     set: 'For King and Country',
   },
 ]
