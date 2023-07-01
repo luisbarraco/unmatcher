@@ -101,6 +101,12 @@ const boards = [
     imageSmall: 'img/boards/helicarrier-small.jpg',
     set: 'For King and Country',
   },
+  {
+    name: 'Sanctum Sanctorum',
+    image: 'img/boards/sanctum-sanctorum.jpg',
+    imageSmall: 'img/boards/sanctum-sanctorum-small.jpg',
+    set: 'Brains and Brawn',
+  },
 ]
 
 export default boards

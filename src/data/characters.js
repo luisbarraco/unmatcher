@@ -99,12 +99,7 @@ const characters = [
     displayName: 'Little Red',
     image: 'img/characters/little-red.jpg',
     set: 'Little Red Riding Hood vs. Beowulf',
-  },
-  {
-    name: 'Deadpool',
-    image: 'img/characters/deadpool.jpg',
-    set: 'Deadpool',
-  },
+  },  
   {
     name: 'Achilles',
     image: 'img/characters/achilles.jpg',
@@ -204,6 +199,21 @@ const characters = [
     name: 'Black Widow',
     image: 'img/characters/black-widow.jpg',
     set: 'For King and Country',
+  },
+  {
+    name: 'Doctor Strange',
+    image: 'img/characters/doctor-strange.jpg',
+    set: 'Brains and Brawn',
+  },
+  {
+    name: 'Spider-Man',
+    image: 'img/characters/spider-man.jpg',
+    set: 'Brains and Brawn',
+  },
+  {
+    name: 'She-Hulk',
+    image: 'img/characters/she-hulk.jpg',
+    set: 'Brains and Brawn',
   },
 ]
 

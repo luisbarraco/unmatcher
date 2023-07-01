@@ -3,10 +3,10 @@
     "",
     "\\public",
     "\\public\\img",
-    "\\public\\img\\characters",
+    "\\public\\img\\boards",
     "\\src",
     "\\src\\data"
   ],
-  "SelectedNode": "\\public\\img\\characters\\winter-soldier.jpg",
+  "SelectedNode": "\\public\\img\\boards\\helicarrier.jpg",
   "PreviewInSolutionExplorer": false
 }
